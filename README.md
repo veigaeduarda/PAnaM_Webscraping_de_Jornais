@@ -1,4 +1,4 @@
-# 📰 Monitoramento de Políticas Públicas na Mídia: Extração de Dados Jornalísticos
+# 📰 Políticas de Alimentação na Mídia: Extração de Dados Jornalísticos
 
 ## 📝 Descrição do Projeto
 Este repositório contém os scripts em Python desenvolvidos para a extração automatizada de matérias jornalísticas nos portais **Gazeta do Povo**, **O Joio e o Trigo**, **MyJoyOnline** e **Ghana News**. O objetivo principal é estruturar a coleta de dados da cobertura midiática sobre políticas públicas relacionadas à alimentação, saúde e regulação, criando uma base sólida para análise de conteúdo.
