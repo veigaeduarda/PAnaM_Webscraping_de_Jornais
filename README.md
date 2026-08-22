@@ -29,7 +29,7 @@ Para cada notícia processada, o método extrai as seguintes informações e met
 - [x] Entrevistados e instituições mencionadas
 
 ## 🔍 Estratégia de Busca e Recorte Temático
-O levantamento utilizou um dicionário de palavras-chave exaustivo elaborado entre setembro e maio de 2026, com termos adaptados para português, inglês e espanhol. O foco da coleta abrange a cobertura das seguintes políticas públicas:
+O levantamento utilizou um dicionário de palavras-chave com termos adaptados para português, inglês e espanhol. O foco da coleta abrange a cobertura das seguintes políticas públicas:
 
 1. Alimentos ultraprocessados
 2. Rotulagem de alimentos
@@ -39,4 +39,4 @@ O levantamento utilizou um dicionário de palavras-chave exaustivo elaborado ent
 
 Para aumentar a precisão e reduzir a extração de matérias irrelevantes (falsos positivos), o script utiliza um sistema de **truncagem**. As palavras-chave são combinadas cruzando um "eixo central" com um "assunto", refinando os resultados para que atendam estritamente aos objetivos da pesquisa. 
 
-> 💡 **Nota:** Todas as palavras-chave utilizadas para a extração e os seus respectivos scripts, separados por portal, encontram-se disponíveis no **Anexo 1** deste projeto.
+> 💡 **Nota:** Todas as palavras-chave utilizadas para a extração e os seus respectivos scripts, separados por portal, encontram-se disponíveis no **COLOCAR ONDE** deste projeto.
